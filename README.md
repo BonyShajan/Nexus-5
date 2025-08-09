@@ -1,44 +1,38 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+#Clap & Save 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Nexus-5
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Hathim Mohammed Rafeeque - MITS
+- Member 2: Bony Shajan - MITS
 
 ### Project Description
-[2-3 lines about what your project does]
+our project is that when the end user types in a text we can save that into a word but the catch is that the end user should clap 6 times in 2 seconds and if it doesnt become exactly 6 claps then each para or line gets deleted from down.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Text to editor
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+clap
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- HTML,CSS,
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
 ### Implementation
-For Software:
+For Software: Firebase,VSC
 # Installation
-[commands]
+
 
 # Run
 [commands]
@@ -47,27 +41,11 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+*Add caption explaining your workflow
 
 # Build Photos
 ![Components](Add photo of your components here)
@@ -88,9 +66,8 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Hathim mohammed rafeeque]: firebase and VSC
+- [Bony Shajan]: HTML,CSS
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
