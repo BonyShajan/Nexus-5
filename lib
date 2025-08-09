@@ -1,0 +1,26 @@
+import { initializeApp, getApps, getApp } from 'firebase/app';
+import { getAuth, GoogleAuthProvider, signInWithPopup, createUserWithEmailAndPassword, signInWithEmailAndPassword } from 'firebase/auth';
+
+// Your web app's Firebase configuration
+const firebaseConfig = {
+  projectId: "acoustic-save",
+  appId: "1:513383296802:web:882185f8d758a6ac233f7b",
+  storageBucket: "acoustic-save.firebasestorage.app",
+  apiKey: "AIzaSyCPzkUb3i1Xg0R0xe6tWN29pE2u8HaDnhM",
+  authDomain: "acoustic-save.firebaseapp.com",
+  messagingSenderId: "513383296802",
+};
+
+// Initialize Firebase
+const app = !getApps().length ? initializeApp(firebaseConfig) : getApp();
+const auth = getAuth(app);
+const googleProvider = new GoogleAuthProvider();
+
+
+export { app, auth, googleProvider, signInWithPopup, createUserWithEmailAndPassword, signInWithEmailAndPassword };
+import { clsx, type ClassValue } from "clsx"
+import { twMerge } from "tailwind-merge"
+
+export function cn(...inputs: ClassValue[]) {
+  return twMerge(clsx(inputs))
+}
