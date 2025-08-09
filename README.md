@@ -45,28 +45,14 @@ For Software:
 # Screenshots (Add at least 3)
 Screenshot 2025-08-09 062415.png
 Screenshot 2025-08-09 061948.png
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+Screenshot 2025-08-09 063609.png
+Screenshot 2025-08-09 063531.png
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/1Nnxaxry5ffde4yN00AafjZ7Opfdzd2BL/view?usp=sharing
 
-# Additional Demos
-[Add any extra demo materials/links]
+
 
 ## Team Contributions
 - [Hathim mohammed rafeeque]: firebase and VSC
