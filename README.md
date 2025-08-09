@@ -43,7 +43,8 @@ For Software:
 -> Settings Persistence: Saves user settings locally in the browser.
 
 # Screenshots (Add at least 3)
-
+Screenshot 2025-08-09 062415.png
+Screenshot 2025-08-09 061948.png
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
