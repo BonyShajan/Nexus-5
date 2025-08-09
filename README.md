@@ -24,21 +24,23 @@ clap
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- HTML,CSS,
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- TypeScript,JavaScript
+- Next.js,React
+- genkit-cli,postcss,tailwindcss
+- typescript
 
 ### Implementation
-For Software: Firebase,VSC
-# Installation
-
-
-# Run
-[commands]
+For Software: Text Editor
 
 ### Project Documentation
 For Software:
+ Its core functionality revolves around a text editor with unique features like:
+-> Clap Detection: It can detect clap sounds via the microphone.
+-> Acoustic Save: It saves the text editor content, possibly triggered by the clap detection.
+-> Progress Bar: Visual feedback for the save process, potentially with a pulsing animation during clap detection.
+-> Realtime Paragraph Counter: Displays the number of paragraphs in the editor.
+-> AI Paragraph Finisher: An AI-powered tool that can complete incomplete paragraphs.
+-> Settings Persistence: Saves user settings locally in the browser.
 
 # Screenshots (Add at least 3)
 
